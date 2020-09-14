@@ -11,7 +11,8 @@ WIP...
 ### Acronyms
 * [(AI) Artificial Intelligence]()
 * [(ANN) Artificial Neural Network]()
-* [(AUC) Area Under The Curve]()
+* (AUC) Area Under The Curve
+  * [Understanding AUC - ROC Curve](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
 * [(CNN) Convolutional Neural Network]()
 * [(DR) Dimensionality Reduction]()
 * [(ETL) Exact, Transform, And Load]()
