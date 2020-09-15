@@ -13,7 +13,8 @@ WIP...
 * [(ANN) Artificial Neural Network]()
 * (AUC) Area Under The Curve
   * [Understanding AUC - ROC Curve](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5)
-* [(CNN) Convolutional Neural Network]()
+* (CNN) Convolutional Neural Network
+  * [Understanding of Convolutional Neural Network (CNN)](https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148)
 * [(DR) Dimensionality Reduction]()
 * [(ETL) Exact, Transform, And Load]()
 * [(GAN) Generative Adversarial Network]()
