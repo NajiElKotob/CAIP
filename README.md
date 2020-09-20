@@ -18,7 +18,8 @@ WIP...
 * [(DR) Dimensionality Reduction]()
 * [(ETL) Exact, Transform, And Load]()
 * [(GAN) Generative Adversarial Network]()
-* [(GDPR) General Data Protection Regulation]()
+* (GDPR) General Data Protection Regulation
+  * [EU data protection rules](https://ec.europa.eu/info/law/law-topic/data-protection/eu-data-protection-rules_en) - Stronger rules on data protection mean people have more control over their personal data and businesses benefit from a level playing field.
 * [(KNN) K-Nearest Neighbors]()
 * [(KPI) Key Performance Indicator]()
 * [(LSTM) Long Short-Term Memory]()
