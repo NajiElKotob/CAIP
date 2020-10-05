@@ -8,6 +8,9 @@ WIP...
 ### Solving Business Problems Using AI and ML
 * [Data Hierarchy 101](https://medium.com/we-are-orb/data-hierarchy-101-aef1e62d32c5) - "The more you organize data, the more meaning you can derive from data."
 
+### Articles
+* [History of AI Winters](https://www.actuaries.digital/2018/09/05/history-of-ai-winters/)
+
 ### Acronyms
 * [(AI) Artificial Intelligence]()
 * [(ANN) Artificial Neural Network]()
