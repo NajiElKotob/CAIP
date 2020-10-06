@@ -37,6 +37,7 @@ WIP...
 * [(RBF) Radial Basis Function Kernel]()
 * [(ROC) Receiver Operating Characteristic]()
 * [(RNN) Recurrent Neural Network]()
-* [(SVM) Support Vector Machine]()
+* (SVM) Support Vector Machine
+  * [An Introduction to Support Vector Machines (SVM)](https://monkeylearn.com/blog/introduction-to-support-vector-machines-svm/)
 
 
