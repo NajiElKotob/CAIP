@@ -10,6 +10,7 @@ WIP...
 
 ### Articles
 * [History of AI Winters](https://www.actuaries.digital/2018/09/05/history-of-ai-winters/)
+* [Machine Learning Methods Explained](https://neptune.ai/blog/machine-learning-methods) - 
 
 ### Acronyms
 * [(AI) Artificial Intelligence]()
