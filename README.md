@@ -4,13 +4,14 @@ WIP...
 
 ## CertNexus
 * [CAIP](https://certnexus.com/certification/caip/)
+* [Learn CAIP with PwC's Academy ME](https://www.pwcacademy-me.com/course/certified-artificial-intelligence-practitioner) #TrainedbyPwC
 
 ### Solving Business Problems Using AI and ML
 * [Data Hierarchy 101](https://medium.com/we-are-orb/data-hierarchy-101-aef1e62d32c5) - "The more you organize data, the more meaning you can derive from data."
 
 ### Articles
 * [History of AI Winters](https://www.actuaries.digital/2018/09/05/history-of-ai-winters/)
-* [Machine Learning Methods Explained](https://neptune.ai/blog/machine-learning-methods) - 
+* [Machine Learning Methods Explained](https://neptune.ai/blog/machine-learning-methods)
 
 ### Acronyms
 * [(AI) Artificial Intelligence]()
